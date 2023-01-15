@@ -1,0 +1,3 @@
+/Users/matousnajman/Fork/fork_default/school/cmake-build-debug/CMakeFiles/school.dir
+/Users/matousnajman/Fork/fork_default/school/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/matousnajman/Fork/fork_default/school/cmake-build-debug/CMakeFiles/rebuild_cache.dir
