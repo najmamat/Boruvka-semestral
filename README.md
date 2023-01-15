@@ -1,4 +1,4 @@
-# Semestrální práce PJC 2023 - Matouš Najma
+# Semestrální práce PJC 2023 - Matouš Najman
 ## Zadání - Minimální kostra (minimum spanning tree)
 
 Minimální kostry mají široké využití - od návrhů tras elektrického vedení, přes vytváření routovacích tabulek v počítačových sítích až po shlukování (clustering) bodů v analýze dat či detekce útvarů v počítačovém vidění. Doporučujeme použít Borůvkův algoritmus. Na výstupu programu bude seznam vrcholů minimální kostry a její cena nebo přímo popis celého grafu pro Graphviz, s barevně odlišenými vrcholy v kostře.
